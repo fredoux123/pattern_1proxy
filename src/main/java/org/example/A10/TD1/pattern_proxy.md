@@ -25,5 +25,7 @@ Types de Proxy :
 - Protection Proxy (vérification des droits)
 - Remote Proxy (objet distant)
 - Smart Proxy (actions automatiques)
-
+- 
+4. diagramme UML: exemplaire
+![structure.png](../../../../../resources/image/structure.png)
 
