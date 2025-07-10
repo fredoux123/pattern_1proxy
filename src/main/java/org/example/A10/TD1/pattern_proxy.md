@@ -26,5 +26,4 @@ Types de Proxy :
 - Remote Proxy (objet distant)
 - Smart Proxy (actions automatiques)
 
-4. diagrame UML : exempl
-   ![img.png](img.png)
+
